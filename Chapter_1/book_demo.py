@@ -4,7 +4,7 @@
 """
 二分法 猜数字
 """
-from comment_func.time_func import func_time
+from comment_func import func_time
 
 
 @func_time
