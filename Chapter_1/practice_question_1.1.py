@@ -9,7 +9,7 @@
 import random
 import pysnooper
 from faker import Faker
-from comment_func.time_func import func_time
+from comment_func import func_time
 
 
 @func_time
